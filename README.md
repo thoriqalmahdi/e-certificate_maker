@@ -6,7 +6,7 @@ ya walaupun di microsoft word dah ada fiturnya, namanya orang gabut yekann. <br 
 #Polosan Sertifikat <br />
 [+] Simpan di folder "files/eser/" <br />
 
-#Posisi Font <br />
+<b>#Posisi Font <br />
 [+] Untuk edit posisi font dan nomor sertifikat silahkan ubah settingannya di module/uin/execute.php <br />
 [+] Sesuaikan posisi font dengan skala sertifikat yang telah anda buat. <br />
 
